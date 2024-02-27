@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="727dbe7847973110c7c913ff016d439e" label="RIM Organization" max_length="40" name="x_810733_rim_rim_organization" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="BU" max_length="40" name="bu" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Dept" max_length="40" name="dept" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="First Published" max_length="40" name="first_published" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Highest Business Unit" max_length="40" name="highest_business_unit" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Updated" max_length="52" name="last_updated" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Organization" max_length="48" name="organization" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Organization Business Unit" max_length="40" name="organization_business_unit" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Organization CoC" max_length="56" name="organization_coc" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Organization Department" max_length="40" name="organization_department" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Organization User" max_length="40" name="organization_user" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Org 1 attid" max_length="40" name="org_1_attid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Org 1 BU" max_length="40" name="org_1_bu" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Org 1 up User" max_length="40" name="org_1_up_user" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Org 2 attid" max_length="40" name="org_2_attid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Org 2 BU" max_length="40" name="org_2_bu" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Org 2 up User" max_length="40" name="org_2_up_user" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="RIM Coordinator" max_length="40" name="rim_coordinator" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="RIM Coordinator Access" max_length="40" name="rim_coordinator_access" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="RIM Liaison" max_length="40" name="rim_liaison" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="RIM Liaison Access" max_length="40" name="rim_liaison_access" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="RO_Access" max_length="40" name="ro_access" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Select MOTS" max_length="40" name="select_mots" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Tracking ID" max_length="40" name="tracking_id" type="string"/>
+    </element>
+</database>

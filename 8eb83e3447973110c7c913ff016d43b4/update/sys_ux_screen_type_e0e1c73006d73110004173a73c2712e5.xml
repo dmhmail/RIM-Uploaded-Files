@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>Visualization Designer</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 19:43:09</sys_created_on>
+        <sys_id>e0e1c73006d73110004173a73c2712e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visualization Designer</sys_name>
+        <sys_package display_value="RIM" source="x_810733_rim">8eb83e3447973110c7c913ff016d43b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RIM">8eb83e3447973110c7c913ff016d43b4</sys_scope>
+        <sys_update_name>sys_ux_screen_type_e0e1c73006d73110004173a73c2712e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 19:43:09</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=e0e1c73006d73110004173a73c2712e5"/>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="DELETE">
+        <label/>
+        <name>ih_import_FDaac93e7400973110c1e8d1ff64ef0aea</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>8eb83e3447973110c7c913ff016d43b4</scope_name>
+        <serialized_content>{"FlowDesigner:ih_import_FDaac93e7400973110c1e8d1ff64ef0aea":{"u_global_record_series_code":"String","u_global_record_series_code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Global Record Series Code\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_global_recor_es_description":"String","u_global_recor_es_description.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Global Record Series Description\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_global_record_notes":"String","u_global_record_notes.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Global Record Notes\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_global_record_retention":"String","u_global_record_retention.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Global Record Retention\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_global_record_series_title":"String","u_global_record_series_title.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Global Record Series Title\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_active_value":"String","u_active_value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Active Value\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}},"FlowDesigner:ih_import_FDaac93e7400973110c1e8d1ff64ef0aea.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"object\",\"co_type_name\":\"ih_import_FDaac93e7400973110c1e8d1ff64ef0aea\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Excel Header\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 19:07:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6ec93e7447973110c7c913ff016d43ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ih_import_FDaac93e7400973110c1e8d1ff64ef0aea</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="RIM" source="x_810733_rim">8eb83e3447973110c7c913ff016d43b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RIM">8eb83e3447973110c7c913ff016d43b4</sys_scope>
+        <sys_update_name>sys_complex_object_6ec93e7447973110c7c913ff016d43ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 19:07:45</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RIM">8eb83e3447973110c7c913ff016d43b4</application>
+        <file_path/>
+        <instance_id>9a47da611b16799ce84d2f8dee4bcbad</instance_id>
+        <instance_name>dev203515</instance_name>
+        <name>sys_complex_object_6ec93e7447973110c7c913ff016d43ea</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object"><sys_complex_object action="INSERT_OR_UPDATE"><label/><name>ih_import_FDaac93e7400973110c1e8d1ff64ef0aea</name><namespace>FlowDesigner</namespace><scope_name>8eb83e3447973110c7c913ff016d43b4</scope_name><serialized_content>{"FlowDesigner:ih_import_FDaac93e7400973110c1e8d1ff64ef0aea":{"u_global_record_series_code":"String","u_global_record_series_code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Global Record Series Code\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_global_recor_es_description":"String","u_global_recor_es_description.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Global Record Series Description\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_global_record_notes":"String","u_global_record_notes.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Global Record Notes\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_global_record_retention":"String","u_global_record_retention.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Global Record Retention\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_global_record_series_title":"String","u_global_record_series_title.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Global Record Series Title\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_active_value":"String","u_active_value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Active Value\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}},"FlowDesigner:ih_import_FDaac93e7400973110c1e8d1ff64ef0aea.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"object\",\"co_type_name\":\"ih_import_FDaac93e7400973110c1e8d1ff64ef0aea\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Excel Header\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}}</serialized_content><sys_class_name>sys_complex_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-21 19:07:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6ec93e7447973110c7c913ff016d43ea</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ih_import_FDaac93e7400973110c1e8d1ff64ef0aea</sys_name><sys_overrides/><sys_package display_value="RIM" source="x_810733_rim">8eb83e3447973110c7c913ff016d43b4</sys_package><sys_policy/><sys_scope display_value="RIM">8eb83e3447973110c7c913ff016d43b4</sys_scope><sys_update_name>sys_complex_object_6ec93e7447973110c7c913ff016d43ea</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-21 19:07:45</sys_updated_on><type>complex_object_schema</type></sys_complex_object></record_update>]]></payload>
+        <payload_hash>2055493859</payload_hash>
+        <record_name>ih_import_FDaac93e7400973110c1e8d1ff64ef0aea</record_name>
+        <reverted_from/>
+        <source>8eb83e3447973110c7c913ff016d43b6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 19:07:45</sys_created_on>
+        <sys_id>66c97e7447973110c7c913ff016d4382</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c8dc6ce580000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 19:07:45</sys_updated_on>
+        <type>Complex Object</type>
+        <update_guid>aec97e74e5973110ce824581d4743781</update_guid>
+        <update_guid_history>aec97e74e5973110ce824581d4743781:2055493859</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 19:08:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_complex_object">sys_complex_object</sys_db_object>
+        <sys_id>35d3c2ad21fb48349529758b4b26c790</sys_id>
+        <sys_metadata>6ec93e7447973110c7c913ff016d43ea</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ih_import_FDaac93e7400973110c1e8d1ff64ef0aea</sys_name>
+        <sys_package display_value="RIM" source="x_810733_rim">8eb83e3447973110c7c913ff016d43b4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="RIM">8eb83e3447973110c7c913ff016d43b4</sys_scope>
+        <sys_scope_delete display_value="">11fe6f6abb1a4c9ca2b326d440413e01</sys_scope_delete>
+        <sys_update_name>sys_complex_object_6ec93e7447973110c7c913ff016d43ea</sys_update_name>
+        <sys_update_version display_value="sys_complex_object_6ec93e7447973110c7c913ff016d43ea">66c97e7447973110c7c913ff016d4382</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 19:08:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

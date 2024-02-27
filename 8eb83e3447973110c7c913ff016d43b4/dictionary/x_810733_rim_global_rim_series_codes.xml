@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="123b7af447973110c7c913ff016d4351" label="Global_RIM_Series_Codes" max_length="40" name="x_810733_rim_global_rim_series_codes" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Active Value" max_length="40" name="active_value" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Global Record Notes" max_length="255" name="global_record_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Global Record Retention" max_length="259" name="global_record_retention" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Global Record Series Code" max_length="40" name="global_record_series_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Global Record Series Description" max_length="1000" name="global_record_series_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Global Record Series Title" max_length="107" name="global_record_series_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

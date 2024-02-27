@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e54eb6f847973110c7c913ff016d43b6" label="RIM MOTS Records" max_length="40" name="x_810733_rim_rim_mots_records" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Application Acronym" max_length="50" name="application_acronym" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Application Retire Date" max_length="40" name="application_retire_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Application Type" max_length="40" name="application_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="APP Contact" max_length="46" name="app_contact" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="APP Contact ATTUID" max_length="40" name="app_contact_attuid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="APP Contact Name" max_length="40" name="app_contact_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="App Name" max_length="138" name="app_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Asset Sub-Type" max_length="40" name="asset_sub_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Asset Type" max_length="40" name="asset_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="AVP" max_length="40" name="avp" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="AVP ATTUID" max_length="40" name="avp_attuid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="AVP Name" max_length="40" name="avp_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="AVP Title" max_length="40" name="avp_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Business Unit" max_length="40" name="business_unit" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="CoC Test field" max_length="40" name="coc_test_field" type="string"/>
+        <element label="Count of Compliant Details records" max_length="40" name="count_of_compliant_details_records" type="integer"/>
+        <element label="Count Work" max_length="40" name="count_work" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Cricket Application" max_length="40" name="cricket_application" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:gs.getUser().lastName" dynamic_default_value="8cfe4b76eb330100d4360c505206fe37" label="Department" max_length="40" name="department" type="string" use_dynamic_default="true"/>
+        <element attributes="edge_encryption_enabled=true" label="Director" max_length="40" name="director" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Director ATTUID" max_length="40" name="director_attuid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Director Name" max_length="40" name="director_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Director Title" max_length="40" name="director_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="First Published" max_length="40" name="first_published" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="GM ALT" max_length="40" name="gm_alt" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="GM ALT ATTUID" max_length="40" name="gm_alt_attuid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="GM ALT Name" max_length="40" name="gm_alt_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="GM ALT Title" max_length="40" name="gm_alt_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Highest Business Unit" max_length="40" name="highest_business_unit" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Highest Level VP ATTUID" max_length="40" name="highest_level_vp_attuid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Highest Level VP Link" max_length="40" name="highest_level_vp_link" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Highest Level VP Name" max_length="40" name="highest_level_vp_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Highest Level VP Title" max_length="40" name="highest_level_vp_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Updated" max_length="54" name="last_updated" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Lowest Level VP ATTUID" max_length="40" name="lowest_level_vp_attuid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Lowest Level VP Link" max_length="40" name="lowest_level_vp_link" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Lowest Level VP Name" max_length="40" name="lowest_level_vp_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Lowest Level VP Title" max_length="40" name="lowest_level_vp_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="MOTS Access Permissions" max_length="6500" name="mots_access_permissions" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="MOTS ID" max_length="40" name="mots_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Number of RIM Records" max_length="40" name="number_of_rim_records" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Organization" max_length="48" name="organization" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Organization Business Unit" max_length="40" name="organization_business_unit" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Organization Department" max_length="40" name="organization_department" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Organization Name" max_length="48" name="organization_name" type="string"/>
+        <element label="OrgX" max_length="32" name="orgx" reference="x_810733_rim_rim_organization" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Org 1 up attid" max_length="40" name="org_1_up_attid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Org 2 up attid" max_length="40" name="org_2_up_attid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Percent of Compliant RIM detail records" max_length="40" name="percent_of_compliant_rim_detail_records" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Processing Group" max_length="40" name="processing_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Record ID" max_length="40" name="record_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Record Status" max_length="40" name="record_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="RIM Coordinator" max_length="40" name="rim_coordinator" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="RIM Liaison Access" max_length="40" name="rim_liaison_access" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="RO_Access_MOTS" max_length="40" name="ro_access_mots" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Status" max_length="40" name="status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Temp rec id" max_length="40" name="temp_rec_id" type="string"/>
+        <index name="index">
+            <element name="orgx"/>
+        </index>
+    </element>
+</database>

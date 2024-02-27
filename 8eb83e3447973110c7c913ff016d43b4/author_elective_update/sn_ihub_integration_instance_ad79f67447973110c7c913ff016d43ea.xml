@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="DELETE">
+        <description>Global Codes</description>
+        <integration_table>sys_data_source</integration_table>
+        <integration_type>data_import</integration_type>
+        <internal_name/>
+        <name>Global RIM Series Codes</name>
+        <record_id>ed79f67447973110c7c913ff016d43eb</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 19:06:19</sys_created_on>
+        <sys_id>ad79f67447973110c7c913ff016d43ea</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Global RIM Series Codes</sys_name>
+        <sys_package display_value="RIM" source="x_810733_rim">8eb83e3447973110c7c913ff016d43b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RIM">8eb83e3447973110c7c913ff016d43b4</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_ad79f67447973110c7c913ff016d43ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 19:06:19</sys_updated_on>
+    </sn_ihub_integration_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RIM">8eb83e3447973110c7c913ff016d43b4</application>
+        <file_path/>
+        <instance_id>9a47da611b16799ce84d2f8dee4bcbad</instance_id>
+        <instance_name>dev203515</instance_name>
+        <name>sn_ihub_integration_instance_ad79f67447973110c7c913ff016d43ea</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance"><sn_ihub_integration_instance action="INSERT_OR_UPDATE"><description>Global Codes</description><integration_table>sys_data_source</integration_table><integration_type>data_import</integration_type><internal_name/><name>Global RIM Series Codes</name><record_id>ed79f67447973110c7c913ff016d43eb</record_id><sys_class_name>sn_ihub_integration_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-21 19:06:19</sys_created_on><sys_id>ad79f67447973110c7c913ff016d43ea</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Global RIM Series Codes</sys_name><sys_package display_value="RIM" source="x_810733_rim">8eb83e3447973110c7c913ff016d43b4</sys_package><sys_policy/><sys_scope display_value="RIM">8eb83e3447973110c7c913ff016d43b4</sys_scope><sys_update_name>sn_ihub_integration_instance_ad79f67447973110c7c913ff016d43ea</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-21 19:06:19</sys_updated_on></sn_ihub_integration_instance></record_update>]]></payload>
+        <payload_hash>-1378207180</payload_hash>
+        <record_name>Global RIM Series Codes</record_name>
+        <reverted_from/>
+        <source>8eb83e3447973110c7c913ff016d43b6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 19:06:19</sys_created_on>
+        <sys_id>a179f67447973110c7c913ff016d43f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c8dc57dd10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 19:06:19</sys_updated_on>
+        <type>Data import</type>
+        <update_guid>e979f67461973110e741333c480d72f3</update_guid>
+        <update_guid_history>e979f67461973110e741333c480d72f3:-1378207180</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Global RIM Series Codes">270c3a3847973110c7c913ff016d433b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-21 19:17:40</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_integration_instance">sn_ihub_integration_instance</sys_db_object>
+        <sys_id>26f4479e36c24f8c8a3b9ddc256f6090</sys_id>
+        <sys_metadata>ad79f67447973110c7c913ff016d43ea</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Global RIM Series Codes</sys_name>
+        <sys_package display_value="RIM" source="x_810733_rim">8eb83e3447973110c7c913ff016d43b4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="RIM">8eb83e3447973110c7c913ff016d43b4</sys_scope>
+        <sys_scope_delete display_value="">11fe6f6abb1a4c9ca2b326d440413e01</sys_scope_delete>
+        <sys_update_name>sn_ihub_integration_instance_ad79f67447973110c7c913ff016d43ea</sys_update_name>
+        <sys_update_version display_value="sn_ihub_integration_instance_ad79f67447973110c7c913ff016d43ea">a179f67447973110c7c913ff016d43f4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 19:17:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
